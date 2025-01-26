@@ -1,0 +1,16 @@
+com/mycompany/ecommerce/JakartaRestConfiguration.class
+com/mycompany/ecommerce/dao/CategoryDao.class
+com/mycompany/ecommerce/servlets/LoginServlet.class
+com/mycompany/ecommerce/helper/FactoryProvider.class
+com/mycompany/ecommerce/dao/UserDao.class
+com/mycompany/ecommerce/helper/FileHandler.class
+com/mycompany/ecommerce/entities/Category.class
+com/mycompany/ecommerce/servlets/RegisterServlet.class
+com/mycompany/ecommerce/servlets/ProductOperationServlet.class
+com/mycompany/ecommerce/dao/ProductDao.class
+com/mycompany/ecommerce/resources/JakartaEE11Resource.class
+com/mycompany/ecommerce/entities/User.class
+com/mycompany/ecommerce/entities/Product.class
+com/mycompany/ecommerce/servlets/LogoutServlet.class
+com/mycompany/ecommerce/helper/Helper.class
+com/mycompany/ecommerce/helper/PasswordUtil.class

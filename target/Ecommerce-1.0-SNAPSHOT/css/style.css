@@ -1,0 +1,51 @@
+.nav-color{
+    background-color: #e65100!important;
+}
+.reg-color{
+    background-color: #f7e4e1;
+}
+.primary-background{
+    background-color: #e65100;
+}
+.login-background{
+    background-color: #EBE0DC;
+}
+
+.admin .card{
+    border: 1px solid #e65100;
+}
+
+.admin .card:hover{
+    background: #ff8f00;
+    cursor:pointer;
+}
+.list-group-item.active {
+  z-index: 2;
+  color: #fff;
+  background-color: #e65100;
+  border-color: #e65100;
+}
+.discount-label{
+    font-size: 10px!important;
+    font-style: italic!important;
+    color: #808080;
+    text-decoration: line-through;
+}
+.product-card{
+    border: 1px solid #e65100;
+}
+.product-card:hover{
+    background: #e2e2e2;
+    
+}
+.btn-outline-nav {
+  color: #e65100;
+  background-color: transparent;
+  background-image: none;
+  border-color: #e65100;
+}
+.btn-outline-nav:hover {
+  color: #fff;
+  background-color: #e65100;
+  border-color: #e65100;
+}
