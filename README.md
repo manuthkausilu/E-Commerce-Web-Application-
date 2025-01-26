@@ -68,12 +68,8 @@ The application follows the Model-View-Controller (MVC) design pattern:
    ```sql
    CREATE DATABASE Ecommerce;
    ```
-
-2. **Import Tables:**
-
-   Use the SQL scripts provided in the `db/` directory to create the necessary tables and populate sample data.
-
-3. **Configure Hibernate:**
+   
+2. **Configure Hibernate:**
 
    Update `hibernate.cfg.xml` with your database connection details (username, password, URL).
 
