@@ -1,16 +1,5 @@
 # E-commerce-Web-app
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Usage](#usage)
-- [Contact](#contact)
-
 ## Introduction
 
 The **E-Commerce Web App** is a full-featured online shopping platform that allows users to browse products, add them to a shopping cart, and make purchases. The app provides functionalities for user authentication, product management, order management.
@@ -53,7 +42,7 @@ The application follows the Model-View-Controller (MVC) design pattern:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/AsadurRahmanRishan59/ecommerce-webapp.git
+   git clone https://github.com/manuthkausilu/E-Commerce-Web-Application-.git
    cd E-Commerce-Web-app
    ```
 
@@ -96,6 +85,5 @@ The application follows the Model-View-Controller (MVC) design pattern:
 
 ## Contact
 
-**Asadur Rahman Rishan**  
-Backend Java Developer  
-[LinkedIn](https://www.linkedin.com/in/asadurrahmanrishan) 
+**Manuth Kausilu**   
+[LinkedIn](https://www.linkedin.com/in/manuth-kausilu-732535316/) 
